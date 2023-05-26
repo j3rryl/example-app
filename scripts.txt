@@ -1,0 +1,4 @@
+Add php path to environment variables
+composer global require laravel/installer
+laravel new app
+php artisan serve
